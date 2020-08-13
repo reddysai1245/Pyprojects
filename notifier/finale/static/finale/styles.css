@@ -1,0 +1,27 @@
+body{
+    background-color:black;
+    width:100%;
+    position: absolute;
+    overflow:hidden;
+    justify-content:center;
+
+    }
+    form{
+    margin-top:35px;
+    position: relative;
+    top:50%;
+    left:30%;
+    }
+    input{
+    padding: 15px;
+    margin-bottom:10px;
+    }
+    h1,h2{
+    top:10%;
+    color:white;
+    left:30%;
+    position: relative;
+    margin:2%;
+    }
+    label{
+    color:white;}
